@@ -1,0 +1,3 @@
+http://jsfiddle.net/tLKLy/
+
+https://codepedia.info/editor-example/calculate-total-sum-of-textbox/
